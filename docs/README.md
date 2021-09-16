@@ -7,9 +7,21 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+_Студенти 2-го курсу групи ІП-03_<span padding-right:5em></span> 
+
+**Олексій ДЕЙКО [telegram](https://t.me/deyko4)**
+
+**Вероніка ГОЛАНОВА [telegram](https://t.me/qqpwz)**
+
+**Олеся МАРІНІЧ [telegram](https://t.me/grefle)**
+
+**Егор БРІЛЬОВ [telegram](https://t.me/eg_to)**
+
+**Дмитро ДАШКІН [telegram](https://t.me/da6hki9)**
+
+**Ірина ВЕЛИЧКО [telegram](https://t.me/rinarina11)**
 
 
 **Керівник**
