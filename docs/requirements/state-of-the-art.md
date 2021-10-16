@@ -79,8 +79,8 @@ PR метрика дозволяє кількісно виміряти ауди�
 
 ## Посилання
 
-https://soware.ru/categories/content-analysis-systems
-https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview
-https://neticle.com/mediaintelligence/hu
-https://promo.semantrum.net/uk/golovna/
-https://youscan.io/
+* https://soware.ru/categories/content-analysis-systems
+* https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview
+* https://neticle.com/mediaintelligence/hu
+* https://promo.semantrum.net/uk/golovna/
+* https://youscan.io/
