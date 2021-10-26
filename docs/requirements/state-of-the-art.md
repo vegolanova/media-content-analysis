@@ -30,6 +30,18 @@
 
 **Text Mining** — вид ефективного аналізу тексту, який за допомогою обчислювальних потужностей виявляє відношення, які можуть призвести до відкриття нових знань.
 
+**Зацікавлені особи** - бренди, компанії і т.д.
+
+**Система** - в данній роботі це платформа для аналізу медіа-контенту.
+
+**Запит** — формулювання своєї інформаційної потреби користувачем деякої бази даних або інформаційної системи, наприклад, пошукової системи.
+
+**Адміністратор** - це особа, що здійснює роботу з ефективного і культурного обслуговування відвідувачів.
+
+**Комп'ютерна система** - інформаційно-технічний комплекс метою якого є обробка, збереження, ввід-вивід інформації.
+
+**Зацікавлені сторони, зацікавлені особи** — фізичні та юридичні особи, які мають легітимний інтерес у діяльності організації, тобто певною мірою залежать від неї або можуть впливати на її діяльність.
+
 
 ## Підходи та способи вирішення завдання
 
@@ -126,8 +138,18 @@
 
 ## Посилання
 
+<<<<<<< HEAD
 * [*https://soware.ru/categories/content-analysis-systems*](https://soware.ru/categories/content-analysis-systems)
 * [*https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview*](https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview)
 * [*https://neticle.com/mediaintelligence/hu*](https://neticle.com/mediaintelligence/hu)
 * [*https://promo.semantrum.net/uk/golovna/*](https://promo.semantrum.net/uk/golovna/)
 * [*https://youscan.io/*](https://youscan.io/)
+=======
+* *https://soware.ru/categories/content-analysis-systems*
+* *https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview*
+* *https://neticle.com/mediaintelligence/hu*
+* *https://promo.semantrum.net/uk/golovna/*
+* *https://youscan.io/*
+* *https://www.kiis.com.ua/?lang=ukr&cat=content_analysis*
+* *https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7*
+>>>>>>> 2284b081f52f8c1542f6ff58c2c230906aac8adf
