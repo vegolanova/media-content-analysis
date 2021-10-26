@@ -138,18 +138,8 @@
 
 ## Посилання
 
-<<<<<<< HEAD
 * [*https://soware.ru/categories/content-analysis-systems*](https://soware.ru/categories/content-analysis-systems)
 * [*https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview*](https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview)
 * [*https://neticle.com/mediaintelligence/hu*](https://neticle.com/mediaintelligence/hu)
 * [*https://promo.semantrum.net/uk/golovna/*](https://promo.semantrum.net/uk/golovna/)
 * [*https://youscan.io/*](https://youscan.io/)
-=======
-* *https://soware.ru/categories/content-analysis-systems*
-* *https://appsource.microsoft.com/en-us/product/web-apps/neticle.neticlemediaintelligence?tab=overview*
-* *https://neticle.com/mediaintelligence/hu*
-* *https://promo.semantrum.net/uk/golovna/*
-* *https://youscan.io/*
-* *https://www.kiis.com.ua/?lang=ukr&cat=content_analysis*
-* *https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7*
->>>>>>> 2284b081f52f8c1542f6ff58c2c230906aac8adf
