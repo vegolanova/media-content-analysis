@@ -2,8 +2,10 @@
 
 В цьому файлі необхідно перелічити всі документи, розроблені в проекті та дати посилання на них.
 
-### Відношення узагальнення
+## Відношення узагальнення
 "Користувач" as User & "Адміністратор" as Administrator
+
+## Основні сценарії
 
 ![Relation](http://www.plantuml.com/plantuml/png/bPCrUYH138NpFaLzaomFnClCpBnhPdPaPcPAVODXfYj8Dx9KKzqQPfHA_nFLv7Xd-__nJkMwrNRd_gFNxcUFNxsxvMcxysi8pY00UKZWee8i11H480TvUcVe7SObHUu8PF0KidYA2xY8yn30HSZnjqlz7rSspoeMUV_Xk_ln8oDn3b5Y11W78VhE4cjFGTnMnYKDAiHKOhwz-_39a4uWXGiKHEgKCCuJE4xGD6xZ8gT5QOQ4nO4Lk8yV7ZwhKJfprmcNKaoZojbCy5E8Er0EBs5-_lZ1_UhjKuFSXv1fJeZhmrKyfLAfZPHsWji7KMwcnfd82jg7nq-bSNXicjwOHN6MLMtIVtrIi9vl24-vPrHUjDOm9BOwqckGXuIAu0ea8Dq4p6jLg_RluszDqWg3mlcAlkng7U5L6L7BCX1mXfaWRx6G4CltgsMH3AyP7SthFTxJ8cVQ1v6YytmZxILaMNfy7kySKpScRznn-YicSvd483T2RBBGOZALYKLMwxBvTKMv9qVSTzHbQVSLxQH0SKgBo6aBELuoY4UdLSFrgC9ktUyOx1tg7PyO-pynJ3bsK8wohNMztehWoHlJTnJNQbq0)
 
