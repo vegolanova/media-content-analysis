@@ -7,6 +7,39 @@
 
 ## Основні сценарії
 
+@startuml
+
+actor "User" as User
+actor "Admin" as Admin
+
+usecase "<b>USR.REG</b>\nРеєстрація" as USR.REG
+usecase "<b>USR.LOG</b>\nАвторизація" as USR.LOG
+usecase "<b>USR.QRY_CR</b>\nСтворення\n запиту" as USR.QRY_CR
+usecase "<b>USR.QRY_ED</b>\nКерування\n запитом" as USR.QRY_ED
+usecase "<b>USR.QRY_EXP</b>\nЕкспорт\n результатів" as USR.QRY_EXP
+usecase "<b>USR.QRY_VIS</b>\nВізуалізація\n результатів" as USR.QRY_VIS
+usecase "<b>USR.HELP</b>\nДопомога\n адміністратора" as USR.HELP
+
+User -l-> USR.REG
+User -u-> USR.LOG
+User -u-> USR.QRY_CR
+User -u-> USR.QRY_ED
+User -u-> USR.QRY_EXP
+User -u-> USR.QRY_VIS
+User -r-> USR.HELP
+
+usecase "<b>ADM.QRY_SRC</b>\nКерування\n джерелами" as ADM.QRY_SRC
+usecase "<b>ADM.USR_RIGHTS</b>\nКерування правами\n користувача" as ADM.USR_RIGHTS
+usecase "<b>ADM.HELP</b>Допомога\n адміністратора" as ADM.HELP
+
+Admin -d-> ADM.QRY_SRC
+Admin -d-> ADM.USR_RIGHTS
+Admin -d-> ADM.HELP
+
+Admin -u-|> User
+
+@enduml
+
 ![Relation](http://www.plantuml.com/plantuml/png/bPCrUYH138NpFaLzaomFnClCpBnhPdPaPcPAVODXfYj8Dx9KKzqQPfHA_nFLv7Xd-__nJkMwrNRd_gFNxcUFNxsxvMcxysi8pY00UKZWee8i11H480TvUcVe7SObHUu8PF0KidYA2xY8yn30HSZnjqlz7rSspoeMUV_Xk_ln8oDn3b5Y11W78VhE4cjFGTnMnYKDAiHKOhwz-_39a4uWXGiKHEgKCCuJE4xGD6xZ8gT5QOQ4nO4Lk8yV7ZwhKJfprmcNKaoZojbCy5E8Er0EBs5-_lZ1_UhjKuFSXv1fJeZhmrKyfLAfZPHsWji7KMwcnfd82jg7nq-bSNXicjwOHN6MLMtIVtrIi9vl24-vPrHUjDOm9BOwqckGXuIAu0ea8Dq4p6jLg_RluszDqWg3mlcAlkng7U5L6L7BCX1mXfaWRx6G4CltgsMH3AyP7SthFTxJ8cVQ1v6YytmZxILaMNfy7kySKpScRznn-YicSvd483T2RBBGOZALYKLMwxBvTKMv9qVSTzHbQVSLxQH0SKgBo6aBELuoY4UdLSFrgC9ktUyOx1tg7PyO-pynJ3bsK8wohNMztehWoHlJTnJNQbq0)
 
 ### USR.REG: Створення нового облікового запису
