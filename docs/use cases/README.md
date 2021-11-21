@@ -6,7 +6,7 @@
 
 ## Відношення узагальнення
 
-"Користувач" as User & "Адміністратор" as Administrator
+"Користувач" as User and "Адміністратор" as Admin
 
 @startuml
 
