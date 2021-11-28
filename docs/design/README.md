@@ -65,5 +65,47 @@ Role "1,1" -l- "0,*" Access
 @enduml
 
 - ER-модель
+
+@startuml
+  entity User <<ENTITY>> {
+    name:VARCHAR
+    email:VARCHAR
+    login:VARCHAR
+    password:VARCHAR
+  }
+  
+  entity Role <<ENTITY>> {
+    name:VARCHAR
+    description:VARCHAR
+  }
+  
+  entity Access <<ENTITY>> {
+  
+  }
+  
+  entity Query <<ENTITY>> {
+    id:INT
+    title:VARCHAR
+    description:VARCHAR
+    created:DATETIME
+    modified:DATETIME
+  }
+  
+  entity Source <<ENTITY>> {
+    template:VARCHAR
+  }
+  
+  entity Result <<ENTITY>> {
+    id:INT
+    name:VARCHAR
+    description:VARCHAR
+  }
+  
+Query "0," -d- "0," Access
+Query "0,*" -r- "1,1" Source
+Query "0,*" -- "1,1" Result
+User "1,1" -u- "0," Access 
+Role "1,1" -l- "0," Access
+@enduml
 - реляційна схема
 
