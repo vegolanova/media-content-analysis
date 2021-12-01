@@ -108,6 +108,6 @@ User "1,1" -u- "0," Access
 Role "1,1" -l- "0," Access
 @enduml
   
-## реляційна схема
+## EER-модель
   
-![image](https://imgur.com/Ng3yHLT)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/J07CI1J" data-context="false" ><a href="//imgur.com/a/J07CI1J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
