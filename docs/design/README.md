@@ -110,4 +110,4 @@ Role "1,1" -l- "0," Access
   
 ## реляційна схема
   
-![image](https://imgur.com/a/J07CI1J)
+![image](https://imgur.com/Ng3yHLT)
