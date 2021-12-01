@@ -1,7 +1,7 @@
 # Проєктування бази даних
 
 В рамках проекту розробляється: 
-- модель бізнес-об'єктів 
+## модель бізнес-об'єктів 
 
 @startuml
 
@@ -64,7 +64,7 @@ Role "1,1" -l- "0,*" Access
 
 @enduml
 
-- ER-модель
+## ER-модель
 
 @startuml
   entity User <<ENTITY>> {
@@ -107,5 +107,7 @@ Query "0,*" -- "1,1" Result
 User "1,1" -u- "0," Access 
 Role "1,1" -l- "0," Access
 @enduml
-- реляційна схема
-
+  
+## реляційна схема
+  
+![image](https://drive.google.com/file/d/1BlGQLlJ56aw605nHyJx6UGJn7c4F1fcD/view)
